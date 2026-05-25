@@ -34,3 +34,16 @@ This project performs molecular docking between EGFR protein and ligands using o
 - RCSB PDB
 - PubChem
 - CB-Dock2
+ ### Results
+
+- Best docking score obtained: -8.1
+- Binding pocket residues were identified successfully
+- Protein-ligand interaction visualization completed
+
+### Docking Images
+
+docking_score_result.jpeg
+
+binding_pocket_result.jpeg
+
+contact_residues_result.jpeg
