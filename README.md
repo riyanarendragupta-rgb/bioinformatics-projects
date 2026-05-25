@@ -41,9 +41,10 @@ This project performs molecular docking between EGFR protein and ligands using o
 - Protein-ligand interaction visualization completed
 
 ### Docking Images
+![Docking Score](images/docking_score.jpeg)
 
-docking_score_result.jpeg
+![Binding Pocket](images/binding_pocket.jpeg)
 
-binding_pocket_result.jpeg
+![Contact Residues](images/contact_residues.jpeg)
 
-contact_residues_result.jpeg
+
