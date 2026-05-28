@@ -48,3 +48,19 @@ This project performs molecular docking between EGFR protein and ligands using o
 ![Contact Residues](images/contact_residues.jpeg)
 
 
+---
+
+## AI-Assisted Drug Discovery
+
+This project combines molecular docking with machine learning to classify ligands as strong or weak binders against EGFR protein.
+
+### Machine Learning Workflow
+- Docking scores collected from CB-Dock2
+- Ligands classified into strong and weak binders
+- Random Forest Classifier trained using docking scores
+- Model evaluated using confusion matrix
+
+### ML Result
+
+![Confusion Matrix](ml_results/confusion_matrix.png)
+
