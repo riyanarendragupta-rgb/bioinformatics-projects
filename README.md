@@ -62,5 +62,5 @@ This project combines molecular docking with machine learning to classify ligand
 
 ### ML Result
 
-![Confusion Matrix](ml_results/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
